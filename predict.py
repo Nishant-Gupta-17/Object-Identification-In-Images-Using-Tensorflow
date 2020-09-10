@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Author: Prateek Sachan
+# @Author: NISHANT
 # @Date:   2017-02-12 23:01:23
-# @Last Modified by:   Prateek Sachan
+# @Last Modified by:   NISHANT
 # @Last Modified time: 2017-02-13 00:49:27
 
 import os
